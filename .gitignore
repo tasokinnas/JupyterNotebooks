@@ -1,0 +1,14 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+# ignore Jupyter checkpoint files
+.ipynb_checkpoints
+# if you use node.js, exclude the node libraries
+node_modules
+# excluded editor temp files
+.*.swp
+*~
+# we usually don't want log files
+*.log
+# if our outputs go in a directory 'output', exclude it too
+/output
+/temp
+/data/wholefoods/wfm_final.tsv
