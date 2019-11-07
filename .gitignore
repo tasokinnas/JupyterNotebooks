@@ -11,4 +11,4 @@ node_modules
 # if our outputs go in a directory 'output', exclude it too
 /output
 /temp
-/data/wholefoods/wfm_final.tsv
+/data/
